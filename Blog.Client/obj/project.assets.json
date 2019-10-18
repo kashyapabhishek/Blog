@@ -16,7 +16,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Blog.Repository": "1.0.0"
+          "Blog.Repository": "1.0.0",
+          "Blog.TestBD": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Blog.InMemoryDataStore.dll": {}
@@ -37,6 +38,20 @@
         "runtime": {
           "bin/placeholder/Blog.Repository.dll": {}
         }
+      },
+      "Blog.TestBD/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Blog.CoreModel": "1.0.0",
+          "Blog.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Blog.TestBD.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.TestBD.dll": {}
+        }
       }
     }
   },
@@ -55,6 +70,11 @@
       "type": "project",
       "path": "../Blog.Repository/Blog.Repository.csproj",
       "msbuildProject": "../Blog.Repository/Blog.Repository.csproj"
+    },
+    "Blog.TestBD/1.0.0": {
+      "type": "project",
+      "path": "../Blog.TestBD/Blog.TestBD.csproj",
+      "msbuildProject": "../Blog.TestBD/Blog.TestBD.csproj"
     }
   },
   "projectFileDependencyGroups": {

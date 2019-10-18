@@ -325,7 +325,8 @@
       },
       "Blog.InMemoryDataStore/1.0.0": {
         "dependencies": {
-          "Blog.Repository": "1.0.0"
+          "Blog.Repository": "1.0.0",
+          "Blog.TestBD": "1.0.0"
         },
         "runtime": {
           "Blog.InMemoryDataStore.dll": {}
@@ -343,6 +344,18 @@
         },
         "compile": {
           "Blog.Repository.dll": {}
+        }
+      },
+      "Blog.TestBD/1.0.0": {
+        "dependencies": {
+          "Blog.CoreModel": "1.0.0",
+          "Blog.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Blog.TestBD.dll": {}
+        },
+        "compile": {
+          "Blog.TestBD.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.0.0.0": {
@@ -2056,6 +2069,11 @@
       "sha512": ""
     },
     "Blog.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blog.TestBD/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

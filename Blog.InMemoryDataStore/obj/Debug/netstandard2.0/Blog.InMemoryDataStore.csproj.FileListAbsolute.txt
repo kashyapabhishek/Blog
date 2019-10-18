@@ -11,3 +11,5 @@ D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\B
 D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.csproj.CopyComplete
 D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.dll
 D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.TestBD.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.TestBD.pdb

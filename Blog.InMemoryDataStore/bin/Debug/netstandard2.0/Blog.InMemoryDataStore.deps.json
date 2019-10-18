@@ -10,6 +10,7 @@
       "Blog.InMemoryDataStore/1.0.0": {
         "dependencies": {
           "Blog.Repository": "1.0.0",
+          "Blog.TestBD": "1.0.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -33,6 +34,15 @@
         },
         "runtime": {
           "Blog.Repository.dll": {}
+        }
+      },
+      "Blog.TestBD/1.0.0": {
+        "dependencies": {
+          "Blog.CoreModel": "1.0.0",
+          "Blog.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Blog.TestBD.dll": {}
         }
       }
     }
@@ -63,6 +73,11 @@
       "sha512": ""
     },
     "Blog.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blog.TestBD/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

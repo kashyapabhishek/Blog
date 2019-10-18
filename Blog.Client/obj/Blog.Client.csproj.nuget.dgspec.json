@@ -137,6 +137,9 @@
             "projectReferences": {
               "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.Repository\\Blog.Repository.csproj": {
                 "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.Repository\\Blog.Repository.csproj"
+              },
+              "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.TestBD\\Blog.TestBD.csproj": {
+                "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.TestBD\\Blog.TestBD.csproj"
               }
             }
           }
@@ -194,6 +197,66 @@
             "projectReferences": {
               "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.CoreModel\\Blog.CoreModel.csproj": {
                 "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.CoreModel\\Blog.CoreModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.TestBD\\Blog.TestBD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.TestBD\\Blog.TestBD.csproj",
+        "projectName": "Blog.TestBD",
+        "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.TestBD\\Blog.TestBD.csproj",
+        "packagesPath": "C:\\Users\\31081\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.TestBD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\31081\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.CoreModel\\Blog.CoreModel.csproj": {
+                "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.CoreModel\\Blog.CoreModel.csproj"
+              },
+              "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.Repository\\Blog.Repository.csproj": {
+                "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.Repository\\Blog.Repository.csproj"
               }
             }
           }

@@ -39,3 +39,5 @@ D:\MyProjects\MyDotNetCoreBlog\Blog.Client\obj\Debug\netcoreapp3.0\Blog.Client.V
 D:\MyProjects\MyDotNetCoreBlog\Blog.Client\obj\Debug\netcoreapp3.0\Blog.Client.csproj.CopyComplete
 D:\MyProjects\MyDotNetCoreBlog\Blog.Client\obj\Debug\netcoreapp3.0\Blog.Client.dll
 D:\MyProjects\MyDotNetCoreBlog\Blog.Client\obj\Debug\netcoreapp3.0\Blog.Client.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.Client\bin\Debug\netcoreapp3.0\Blog.TestBD.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.Client\bin\Debug\netcoreapp3.0\Blog.TestBD.pdb
