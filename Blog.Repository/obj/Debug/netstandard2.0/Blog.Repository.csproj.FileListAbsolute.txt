@@ -1,0 +1,11 @@
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\bin\Debug\netstandard2.0\Blog.Repository.deps.json
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\bin\Debug\netstandard2.0\Blog.Repository.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\bin\Debug\netstandard2.0\Blog.Repository.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\bin\Debug\netstandard2.0\Blog.CoreModel.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\bin\Debug\netstandard2.0\Blog.CoreModel.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\obj\Debug\netstandard2.0\Blog.Repository.csprojAssemblyReference.cache
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\obj\Debug\netstandard2.0\Blog.Repository.AssemblyInfoInputs.cache
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\obj\Debug\netstandard2.0\Blog.Repository.AssemblyInfo.cs
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\obj\Debug\netstandard2.0\Blog.Repository.csproj.CopyComplete
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\obj\Debug\netstandard2.0\Blog.Repository.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.Repository\obj\Debug\netstandard2.0\Blog.Repository.pdb

@@ -1,0 +1,8 @@
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\bin\Debug\netstandard2.0\Blog.CoreModel.deps.json
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\bin\Debug\netstandard2.0\Blog.CoreModel.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\bin\Debug\netstandard2.0\Blog.CoreModel.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\obj\Debug\netstandard2.0\Blog.CoreModel.csprojAssemblyReference.cache
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\obj\Debug\netstandard2.0\Blog.CoreModel.AssemblyInfoInputs.cache
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\obj\Debug\netstandard2.0\Blog.CoreModel.AssemblyInfo.cs
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\obj\Debug\netstandard2.0\Blog.CoreModel.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.CoreModel\obj\Debug\netstandard2.0\Blog.CoreModel.pdb

@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Blog.CoreModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Blog.CoreModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.CoreModel.dll": {}
+        }
+      },
+      "Blog.InMemoryDataStore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Blog.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Blog.InMemoryDataStore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.InMemoryDataStore.dll": {}
+        }
+      },
+      "Blog.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Blog.CoreModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Blog.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blog.CoreModel/1.0.0": {
+      "type": "project",
+      "path": "../Blog.CoreModel/Blog.CoreModel.csproj",
+      "msbuildProject": "../Blog.CoreModel/Blog.CoreModel.csproj"
+    },
+    "Blog.InMemoryDataStore/1.0.0": {
+      "type": "project",
+      "path": "../Blog.InMemoryDataStore/Blog.InMemoryDataStore.csproj",
+      "msbuildProject": "../Blog.InMemoryDataStore/Blog.InMemoryDataStore.csproj"
+    },
+    "Blog.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Blog.Repository/Blog.Repository.csproj",
+      "msbuildProject": "../Blog.Repository/Blog.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Blog.InMemoryDataStore >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\31081\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.Client\\Blog.Client.csproj",
+      "projectName": "Blog.Client",
+      "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.Client\\Blog.Client.csproj",
+      "packagesPath": "C:\\Users\\31081\\.nuget\\packages\\",
+      "outputPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\31081\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.InMemoryDataStore\\Blog.InMemoryDataStore.csproj": {
+              "projectPath": "D:\\MyProjects\\MyDotNetCoreBlog\\Blog.InMemoryDataStore\\Blog.InMemoryDataStore.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

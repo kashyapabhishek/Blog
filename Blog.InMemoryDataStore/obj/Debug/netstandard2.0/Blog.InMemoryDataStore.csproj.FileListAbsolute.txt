@@ -1,0 +1,13 @@
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.InMemoryDataStore.deps.json
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.InMemoryDataStore.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.InMemoryDataStore.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.CoreModel.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.Repository.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.Repository.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\bin\Debug\netstandard2.0\Blog.CoreModel.pdb
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.csprojAssemblyReference.cache
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.AssemblyInfoInputs.cache
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.AssemblyInfo.cs
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.csproj.CopyComplete
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.dll
+D:\MyProjects\MyDotNetCoreBlog\Blog.InMemoryDataStore\obj\Debug\netstandard2.0\Blog.InMemoryDataStore.pdb
